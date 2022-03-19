@@ -111,3 +111,17 @@ a {
     font-size: 1.25em;
     margin-top: 0.25em;
 }
+
+{
+
+@media (min-width: 320px) and (max-width: 999px) {
+
+  // Mobile and tablet CSS
+
+}
+{
+@media (min-width: 1000px) {
+
+  // Laptop/desktop CSS
+
+}
