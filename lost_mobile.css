@@ -37,33 +37,33 @@ a {
     top: 25px;
     font-size: 12px;
     font-family: 'Fredoka', sans-serif;
-    color:rgb(0, 0, 0)
+    color:rgb(177, 177, 177)
 }
 
 /*BODY*/
 
-.image {
-    top: 75px;
-    scale: 90%;
-}
-.image__img {
-    display: block;
-    width: 100%;
-}
- .image {
-     height: auto;
- }
 
-/*IMAGE 2*/
-
- .image2 {
-    top: 75px;
-    scale: 100%;
+.information {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
 }
-.image__img2 {
-    display: block;
-    width: 100%;
+.information2 {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
 }
- .image2 {
-     height: auto;
- }
+.information3 {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+.information4 {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+.information5 {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+.information6 {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}

@@ -1,0 +1,69 @@
+a {
+    background: white;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+
+.name {
+    position: relative;
+    font-size: 20px;
+    line-height: 85px;
+    left: 26px;
+    font-family: 'Fredoka', sans-serif;
+}
+.name, .label {
+    display: inline; 
+}
+.label {
+    position: relative;
+    font-size: .9em;
+    right: 97px;
+    top: 27px;
+    font-family: 'Open Sans', sans-serif;
+    color:rgb(177, 177, 177)   
+}
+.contact {
+    position:absolute;
+    right: 40px;
+    top: 43px;
+    font-size: 14px;
+    font-family: 'Fredoka', sans-serif;
+    color:rgb(177, 177, 177)
+}
+.work {
+    position: absolute;
+    right: 140px;
+    top: 43px;
+    font-size: 14px;
+    font-family: 'Fredoka', sans-serif;
+    color:rgb(177, 177, 177)
+}
+
+
+
+
+.information {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+.information2 {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+.information3 {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+.information4 {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+.information5 {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+.information6 {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
